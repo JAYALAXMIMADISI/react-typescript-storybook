@@ -2,7 +2,7 @@ import { Meta, StoryObj } from "@storybook/react";
 import AccordionUI from "./Accordion";
 
 const meta: Meta<typeof AccordionUI> = {
-  title: "AlertUI",
+  title: "AccordionUI",
   component: AccordionUI,
 };
 export default meta;
