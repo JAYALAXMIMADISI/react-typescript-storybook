@@ -1,0 +1,12 @@
+.accordion{
+    padding: 10px;
+    border:#fff
+}
+
+.item{
+    background-color: #f5f6f6;
+}
+    
+.border{
+    border:2px solid #d3dbdb;
+}
